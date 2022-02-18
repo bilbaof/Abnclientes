@@ -92,7 +92,7 @@ if ($_POST) {
         //si se completan las variables requeridas
     if ($dni != "" && $nombre != "" && $correo !="") {
         $mensaje = "Datos ingresados correctamente.";
-        //sino se completan las variables requeridas
+      
     }
     //Convertir el array a json
     $strJson = json_encode($aClientes);
