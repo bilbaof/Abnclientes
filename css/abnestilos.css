@@ -1,0 +1,29 @@
+.fa-edit{
+    color: white;
+    background-color: #4472ce;
+    border: #4472ce solid 1px;
+    border-radius: 30px;
+    width: 30px;
+    height: 30px;
+    font-size: 16px;
+    padding: 6px 0px 0px 6px;
+}
+.fa-trash-alt {
+    color: white;
+    background-color: #ce4452;
+    border: #ce4452 solid 1px;
+    border-radius: 30px;
+    width: 30px;
+    height: 30px;
+    font-size: 18px;
+    padding: 6px 0px 0px 6px;
+}
+.table{
+    background-color: #ffffff;
+}
+
+#abn{
+    background-image: url(/abmclientes/imagenes/SL_042620_30310_19.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
